@@ -28,8 +28,9 @@
         
         // example: 
         createCannon("top", 450);
-        
-        
+        createCannon("top", 800); // a cannon on the top of the screen, located at x = 450
+        createCannon("left", 300, 1000);
+        createCannon("right", 500, 3000);
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
     };
